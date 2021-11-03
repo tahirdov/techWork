@@ -12,7 +12,7 @@ public class AuthRepo {
     }
 
     private void doThing (String username) {
-        auth.hail(username);
+        auth.farewell(username);
     }
 
 }
